@@ -1,0 +1,5 @@
+/home/nikita/NIKITOSIT/Projects/c#/practice/chatbot1/chatbot1/bin/Release/chatbot1.exe
+/home/nikita/NIKITOSIT/Projects/c#/practice/chatbot1/chatbot1/bin/Release/chatbot1.pdb
+/home/nikita/NIKITOSIT/Projects/c#/practice/chatbot1/chatbot1/obj/Release/chatbot1.csprojAssemblyReference.cache
+/home/nikita/NIKITOSIT/Projects/c#/practice/chatbot1/chatbot1/obj/Release/chatbot1.exe
+/home/nikita/NIKITOSIT/Projects/c#/practice/chatbot1/chatbot1/obj/Release/chatbot1.pdb
